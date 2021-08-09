@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="message_reload">Something went wrong\n Tap to retry</string>
+    <string name="message_no_internet_connection">No Internet Connection. Please connect your phone to Internet and try again</string>
+
+</resources>
